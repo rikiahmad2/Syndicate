@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "716253480609",
+    "firebase_url": "https://firstapp-31287.firebaseio.com",
+    "project_id": "firstapp-31287",
+    "storage_bucket": "firstapp-31287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716253480609:android:f0ac26f17ccacdf6ff52e0",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716253480609-o810mc94vqpkse3an442kn2hlbumnahl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstapp",
+            "certificate_hash": "76a72e1ee483fe291275c97e618e9cf1205c81a5"
+          }
+        },
+        {
+          "client_id": "716253480609-crinu9muoaj0g7ih6alj93dvn2edresu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFGzLyARVt1jKK9pcye8FhxG75PyLQxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716253480609-crinu9muoaj0g7ih6alj93dvn2edresu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716253480609:android:7ce8b8a0c4a411f1ff52e0",
+        "android_client_info": {
+          "package_name": "com.riki.net89"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716253480609-crinu9muoaj0g7ih6alj93dvn2edresu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFGzLyARVt1jKK9pcye8FhxG75PyLQxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716253480609-crinu9muoaj0g7ih6alj93dvn2edresu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
